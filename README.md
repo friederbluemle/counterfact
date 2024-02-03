@@ -1,6 +1,8 @@
 <div align="center"  markdown="1">
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue) [![TypeScript](./typescript-badge.png)](https://github.com/ellerbrock/typescript-badges/) [![Coverage Status](https://coveralls.io/repos/github/pmcelhaney/counterfact/badge.svg)](https://coveralls.io/github/pmcelhaney/counterfact)
+![MIT License][1]
+![TypeScript][2]
+[![Coverage Status][3]][4]
 
 </div>
 
@@ -63,3 +65,8 @@ If your mocking needs are relatively simple and you're shopping for someone who 
 We value _all_ of your feedback and contributions, including 💌 love letters , 💡 feature requests, 🐞 bug reports, and ✍️ grammatical nit-picks in the docs. Please [create an issue](https://github.com/pmcelhaney/counterfact/issues/new), open a pull request, or reach out to <pmcelhaney@gmail.com>.
 
 **Welcome to the bottom of the README club! Since you've come this far, go ahead and smash that like and subsc… er, uh, give this project a ⭐️ on GitHub!** 🙏🏼
+
+[1]: https://img.shields.io/badge/license-MIT-blue
+[2]: https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-TypeScript-blue
+[3]: https://coveralls.io/repos/github/pmcelhaney/counterfact/badge.svg
+[4]: https://coveralls.io/github/pmcelhaney/counterfact
